@@ -31,6 +31,8 @@ by entering the number, or else enter 'Q' to quit:
 Finally, as seen here, if you attempt to purchase more items than in inventory, or an item not in inventory, you will be denied and 
 told this is not a valid selection. Additionally, as seen in these screenshots, the MySQL database updates in real-time.
 
+![Denial](https://raw.githubusercontent.com/JonathanDavis22/Bamazon/master/Images/Screen%20Shot%202019-01-12%20at%209.20.29%20PM.png "Denial")
+
 ## Built With
 
 * [Node](https://nodejs.org/api/http.html) - The JavaScript runtime used
